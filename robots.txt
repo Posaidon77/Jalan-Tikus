@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /private/
+Sitemap: https://posaidon77.github.io/Jalan-Tikus/sitemap.xml
